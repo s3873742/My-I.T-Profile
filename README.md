@@ -9,7 +9,7 @@
 <p style="font-family:arial">Name: Joanna Enstice</p>
 <p style="font-family:arial">Student Number: S387374</p>
 <p style="font-family:arial">Email: s3873742@student.rmit.edu.au</p>
-<img src="./thisisme.jpg"
+<img src="./thisisme.jpg width="600" height="450""
 <p style="color:purple;font-family:arial">I was born in Australia, but my parents were born in England and moved here in the 1970’s. As a result, I had an English accent till the end of primary school, and people jokingly used to say I sounded like Posh Spice. I love art and have been drawing and painting since I was little. My work has ranged from realistic, to splashes of paint on a canvas, and everything in between. I also really love cars, and currently own a Subaru WRX.  
 </p>
 
