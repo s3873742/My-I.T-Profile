@@ -36,7 +36,8 @@ The results of the Meyers Briggs have indicated that I am a quiet, imaginative, 
 
 <p style="color:purple;font-family:arial">Interestingly, I am also a visual learner, as was found by this test <a href="http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&A=6&V=10&T=4">here</a>
 
-In the context of a team environment, I believe these characteristics mean I’ll be wanting to work harmoniously with others and may find conflict troublesome. This could result in me becoming withdrawn or avoidant in times of disagreement, instead of trying to promote open and effective discussion about the matter. Given I tend to be on the reserved side, when it comes to forming a team I think I should seek out team members who are effective listeners and diplomatic in their approach to ensuring everyone gets to contribute evenly. 
+<br>In the context of a team environment, I believe these characteristics mean I’ll be wanting to work harmoniously with others and may find conflict troublesome. This could result in me becoming withdrawn or avoidant in times of disagreement, instead of trying to promote open and effective discussion about the matter. Given I tend to be on the reserved side, when it comes to forming a team I think I should seek out team members who are effective listeners and diplomatic in their approach to ensuring everyone gets to contribute evenly. 
+</br>
 </p>
 
 <h3 style="color:MediumOrchid;">Project Idea</h3>
