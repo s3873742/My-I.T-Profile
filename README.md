@@ -1,6 +1,4 @@
-<!DOCTYPE html>
 <html>
-
 <body style="background-color:lavender;">
 
 <h1 style="color:MediumOrchid;font-family:futura;">My I.T Profile</h1>
@@ -31,11 +29,12 @@ I would expect to have knowledge in most areas of I.T by the end of my studies, 
 
 <p style="color:purple;">According to the Myers Briggs Type Indicator for personalities, I am an INFP. You can read more about this type here: <a href="https://www.16personalities.com/infp-personality">Who is INFP?</a>
   
-The results of the Meyers Briggs have indicated that I am a quiet, imaginative, kind and creative person, who tries to look for the best in everything in everyone. I would agree with this to some extent, however feel I am more realistic in that good cannot be found in absolutely everything and everyone. I am seemingly dedicated and hard-working, and prefer to seek harmony with others, with no interest in power or leadership. These ideals are reinforced through the results of a Work Style Quiz, the results of which can be seen in the screenshot below. 
+The results of the Meyers Briggs have indicated that I am a quiet, imaginative, kind and creative person, who tries to look for the best in everything in everyone. I would agree with this to some extent, however feel I am more realistic in that good cannot be found in absolutely everything and everyone. I am seemingly dedicated and hard-working, and prefer to seek harmony with others, with no interest in power or leadership. These ideals are reinforced through the results of a Work Style Quiz, the results of which can be seen in the screenshot below.
+</p>
 
 <img src="./WorkStyleQuizResults.jpg" width="600" height="400">
 
-Interestingly, I am also a visual learner, as was found by this test <a href="http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&A=6&V=10&T=4">here</a>
+<p>Interestingly, I am also a visual learner, as was found by this test <a href="http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&A=6&V=10&T=4">here</a>
 
 In the context of a team environment, I believe these characteristics mean I’ll be wanting to work harmoniously with others and may find conflict troublesome. This could result in me becoming withdrawn or avoidant in times of disagreement, instead of trying to promote open and effective discussion about the matter. Given I tend to be on the reserved side, when it comes to forming a team I think I should seek out team members who are effective listeners and diplomatic in their approach to ensuring everyone gets to contribute evenly. 
 </p>
@@ -59,9 +58,6 @@ A decent working knowledge of Javascript, knowledge of the mobile app developmen
 
 <h4 style="color:MediumOrchid;">Outcome</h4>
 If the app is successful, a gap in the market for a simple to use, safe, cross-platform platonic friend finding app will be filled. 
-
-
-
 
 </body>
 </html>
