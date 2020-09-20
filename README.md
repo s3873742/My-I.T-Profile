@@ -35,25 +35,29 @@ The results of the Meyers Briggs have indicated that I am a quiet, imaginative, 
 
 <img src="./WorkStyleQuizResults.jpg" width="600" height="400">
 
-Interestingly, I am also a visual learner, as was found by this test <a href="http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&A=6&V=10&T=4"</a>here: 
+Interestingly, I am also a visual learner, as was found by this test <a href="http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&A=6&V=10&T=4">here</a>
 
 In the context of a team environment, I believe these characteristics mean I’ll be wanting to work harmoniously with others and may find conflict troublesome. This could result in me becoming withdrawn or avoidant in times of disagreement, instead of trying to promote open and effective discussion about the matter. Given I tend to be on the reserved side, when it comes to forming a team I think I should seek out team members who are effective listeners and diplomatic in their approach to ensuring everyone gets to contribute evenly. 
+</p>
 
 <h3 style="color:MediumOrchid;">Project Idea</h3>
-Overview:
+
+<h4 style="color:MediumOrchid;">Overview</h4>
 My idea involves developing a friend-finding app which would match users with other users based on personality type. The users would then have the option of being placed in ‘communities’ ranging from 2-3 other ‘matched’ users, giving them a hub where they can chat, form plans to meet, nominate in person activities and meetups etc. 
-Motivation:
+
+<h4 style="color:MediumOrchid;">Motivation</h4>
 When it comes to forming new connections, dating apps are plentiful, yet platonic friend finding apps are harder to come by. A highly tailored friend finding experience based on the MBTI personality profiles would help bridge the gap in a society that’s becoming increasingly socially disconnected. The app could be built cross platform using Javascript and tools like React Native, NativeScript, Xamarin or Appcelerator.
-Description:
+
+<h4 style="color:MediumOrchid;">Description</h4>
 Upon opening the app, the user would be prompted to enter some basic biographical information, and would then answer questions referencing the Myers Briggs personality test. Based on those results, they would then be presented with suggested ‘matches’ which they can swipe to ‘match’ with, or swipe to pass, then be presented with the next suggested match, and so on. Users can chat with their matches and also have the option of being placed in ‘communities’ of 2-3 other matched users, where they can form a group chat. The app could partner with various local businesses and market them as ‘safe’ meetup points. Users could attend these places with the reassurance that they could go to a staff member at any point during the meetup if they felt unsafe in any way.
 
-Tools and Technologies:
+<h4 style="color:MediumOrchid;">Tools and Technologies</h4>
 The app would be built for both IOS and Android using React Native, a development tool which was originally created by Facebook, and is based upon the Javascript language. It would not require any particularly unique or unusual technology, as the code could be written by software developers using desktop PCs, with access to a mobile app test environment.
 
-Skills Required:
+<h4 style="color:MediumOrchid;">Skills Required</h4>
 A decent working knowledge of Javascript, knowledge of the mobile app development process for IOS and Android, and the distribution process to the app and Play stores. Marketing, advertising, and legal experts would also need to be consulted. 
 
-Outcome:
+<h4 style="color:MediumOrchid;">Outcome</h4>
 If the app is successful, a gap in the market for a simple to use, safe, cross-platform platonic friend finding app will be filled. 
 
 
