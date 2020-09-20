@@ -9,7 +9,7 @@
 <p style="font-family:arial">Name: Joanna Enstice</p>
 <p style="font-family:arial">Student Number: S387374</p>
 <p style="font-family:arial">Email: s3873742@student.rmit.edu.au</p>
-
+<img src="./thisisme.jpg"
 <p style="color:purple;font-family:arial">I was born in Australia, but my parents were born in England and moved here in the 1970’s. As a result, I had an English accent till the end of primary school, and people jokingly used to say I sounded like Posh Spice. I love art and have been drawing and painting since I was little. My work has ranged from realistic, to splashes of paint on a canvas, and everything in between. I also really love cars, and currently own a Subaru WRX.  
 </p>
 
@@ -29,6 +29,9 @@ I would expect to have knowledge in most areas of I.T by the end of my studies, 
 <h3 style="color:MediumOrchid;">Personal Profile</h3>
 
 <p style="color:purple;">According to the Myers Briggs Type Indicator for personalities, I am an INFP. You can read more about this type here: <a href="https://www.16personalities.com/infp-personality">Who is INFP?</a>
+  
+The results of the Meyers Briggs have indicated that I am a quiet, imaginative, kind and creative person, who tries to look for the best in everything in everyone. I would agree with this to some extent, however feel I am more realistic in that good cannot be found in absolutely everything and everyone. I am seemingly dedicated and hard-working, and prefer to seek harmony with others, with no interest in power or leadership. In the context of a team environment, I believe these characteristics mean I’ll be likely to find conflict troublesome, and may end up becoming quiet in times of disagreement, rather than having open and effective discussion about the matter. Given I tend to be on the reserved side, when it comes to forming a team, I think I should seek out team members who are effective listeners and diplomatic in their approach to ensuring everyone gets to contribute evenly. 
+
 
 </body>
 </html>
