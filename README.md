@@ -3,6 +3,7 @@
 <body style="background-color:lavender;">
 <h1 style="color:MediumOrchid;font-family:futura;">My I.T Profile</h1>
 <h3 style="color:MediumOrchid;font-family:arial;">Personal Information:</h3>
+<img src="thisisme.jpg" width="500" height="600">
 
 <p style="font-family:arial">Name: Joanna Enstice</p>
 <p style="font-family:arial">Student Number: S387374</p>
