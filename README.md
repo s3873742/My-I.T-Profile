@@ -28,5 +28,7 @@ I would expect to have knowledge in most areas of I.T by the end of my studies, 
 
 <p style="color:purple;">According to the Myers Briggs Type Indicator for personalities, I am an INFP. You can read more about this type here: <a href="https://www.16personalities.com/infp-personality">Who is INFP?</a>
 
+<p style="color:purple;">The results of the Meyers Briggs have indicated that I am a quiet, imaginative, kind and creative person, who tries to look for the best in everything in everyone. I would agree with this to some extent, however feel I am more realistic in that good cannot be found in absolutely everything and everyone. I am seemingly dedicated and hard-working, and prefer to seek harmony with others, with no interest in power or leadership. In the context of a team environment, I believe these characteristics mean I’ll be likely to find conflict troublesome, and may end up becoming quiet in times of disagreement, rather than having open and effective discussion about the matter. Given I tend to be on the reserved side, when it comes to forming a team, I think I should seek out team members who are effective listeners and diplomatic in their approach to ensuring everyone gets to contribute evenly. 
+</p>
 </body>
 </html>
