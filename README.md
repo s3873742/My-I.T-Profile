@@ -4,6 +4,7 @@
 <h1 style="color:MediumOrchid;font-family:futura;">My I.T Profile</h1>
 <h3 style="color:MediumOrchid;font-family:arial;">Personal Information:</h3>
 
+<img src="IMG_3998.jpg" width="500" height="600">
 <p style="font-family:arial">Name: Joanna Enstice</p>
 <p style="font-family:arial">Student Number: S387374</p>
 <p style="font-family:arial">Email: s3873742@student.rmit.edu.au</p>
